@@ -22,7 +22,7 @@ h2.forEach(button => {
         e.target.document.querySelector('h2').innerText = 'rand(1, 6)';
         console.log(e.target);
 
-
+    });
 
 //b. Paspaudus mygtuką skaičiai turi būti pergeneruojami iš naujo. Jeigu sugeneruoti skaičiai yra vienodi, juos nudažyti raudonai. (4 taškai)
 
